@@ -1,3 +1,6 @@
+
+# link:
+#     https://leetcode.com/problems/two-sum/submissions/884511113/ 
 def twoNums(n,target):
     complementMap=dict()
     for i,num in enumerate(n): # 4

@@ -58,5 +58,7 @@
 وبس كدا ي سيدي 
 
 تشجيع بقى علشان نستمر
+# problem 
+[مسألة مثلث باسكال على LeetCode](https://leetcode.com/problems/pascals-triangle/description/)
 # demo
 <img width="891" alt="v 00_00_01 20250224-193756" src="https://github.com/user-attachments/assets/72c989f0-d78d-4744-a360-4060acc12f27" />

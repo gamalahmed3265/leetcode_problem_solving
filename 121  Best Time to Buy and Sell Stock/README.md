@@ -15,4 +15,4 @@ prices = [7, 1, 5, 3, 6, 4]
 
 اللهم أعني على ذكرك وشكرك وحسن عبادتك، وارزقني الإخلاص في القول والعمل، وثبتني على طريق الحق، واجعلني من الصابرين الشاكرين، ووفقني لكل خير، وابعدني عن كل شر، وارزقني التوفيق والنجاح في الدنيا والآخرة، واجعلني من عبادك المخلصين. آمين.
 
-[https://github.com/gamalahmed3265/leetcode_problem_solving/tree/main/121%20%20Best%20Time%20to%20Buy%20and%20Sell%20Stock](# Problem)
+[https://github.com/gamalahmed3265/leetcode_problem_solving/tree/main/121%20%20Best%20Time%20to%20Buy%20and%20Sell%20Stock](Problem)
